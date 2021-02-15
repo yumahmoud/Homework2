@@ -68,7 +68,7 @@ def dictionaries():
     """
     # Create a dictionary that maps:
     #   fruit => "apple"
-    #   quantity => 17
+    #   quantity => 4
     #   color => "red"
     f = 
     # Get the item in dictionary f that the key "fruit" maps to

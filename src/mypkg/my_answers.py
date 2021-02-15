@@ -21,10 +21,10 @@ def numbers_and_strings():
     # What is the length of z?
     length = 
 
-    # Concatenate variable y with string " Great"
+    # Concatenate variable y with string "is Great"
     m = 
 
-    # Replace "Great" with "good" in variable m and assign it to a new variable n
+    # Replace "Great" with "is good" in variable m and assign it to a new variable n
     n = 
 
     return x, y, z, length, m, n
